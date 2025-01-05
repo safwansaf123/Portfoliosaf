@@ -24,15 +24,15 @@ const About = () => {
     <br />
     <br />
     <div className='grid grid-cols-9 justify-center text-9xl'>
-    <a href="#safoo"><FaFacebook /></a>
-    <a href="#safoo"><FaTwitter /></a>
+    <a href="https://www.facebook.com/safwan.ahmed.777"><FaFacebook /></a>
+    <a href="https://twitter.com/@SafwanAhmed_"><FaTwitter /></a>
     <a href="#safoo"><FaLinkedin /></a>
-    <a href="#safoo"><FaYoutube /></a>
-    <a href="#safoo"><FaInstagram /></a>
-    <a href="#safoo"><FaGithub /></a>
-    <a href="#safoo"><FaSoundcloud /></a>
-    <a href="#safoo"><FaTiktok /></a>
-    <a href="#safoo"><IoLogoVercel /></a>
+    <a href="https://www.youtube.com/@safwanahmed4216"><FaYoutube /></a>
+    <a href="https://www.instagram.com/safwanahmed_"><FaInstagram /></a>
+    <a href="https://github.com/safwansaf123"><FaGithub /></a>
+    <a href="https://soundcloud.com/safwan-ahmed-6"><FaSoundcloud /></a>
+    <a href="https://www.tiktok.com/@safwansafahmed"><FaTiktok /></a>
+    <a href="https://vercel.com/teams/invite/undefined"><IoLogoVercel /></a>
 </div>
     
     
